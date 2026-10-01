@@ -1,0 +1,11 @@
+# GIT IMMO
+
+> Les biens de l'agence GIT IMMO.
+
+- E-mail: transac-loc@gitimmo.fr
+- Site web: http://www.gitimmo.fr
+- Adresse: 3 rue Dragon, 13006 Marseille 6ème
+
+## Biens (2)
+- Vente immeuble 0 pièces 205 m² à Marseille 4ème (13) — Les Chartreux, 440 000 €: vente-immeuble-0-pieces-205-m2-a-marseille-4eme-13-105331609/
+- Vente appartement 2 pièces 33 m² à Marseille 3ème (13) — toutes commodités, 89 000 €: vente-appartement-2-pieces-33-m2-a-marseille-3eme-13-109313357/
